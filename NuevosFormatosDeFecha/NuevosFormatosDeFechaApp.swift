@@ -11,7 +11,8 @@ import SwiftUI
 struct NuevosFormatosDeFechaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ClockView()
+            //ContentView()
         }
     }
 }
